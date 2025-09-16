@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>vv150em</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            3
+            5
+            0
+            0
+            0
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>2069_vv150em_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges/>
+      <plateProbabilities>
+				<Probabilities>
+					<Item>
+						<Name>Standard White</Name>
+						<Value value="100" />
+					</Item>
+				</Probabilities>
+			</plateProbabilities>
+      <lightSettings value="1"/>
+      <sirenSettings value="1089"/>
+    </Item>
+ </variationData>
+</CVehicleModelInfoVariation>

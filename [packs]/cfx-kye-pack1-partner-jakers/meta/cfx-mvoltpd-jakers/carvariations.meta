@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+	     <Item>
+      <modelName>mvoltpd</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            92
+            0
+            92
+            92
+            92
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>770_mvoltpd_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="25" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="1170" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
